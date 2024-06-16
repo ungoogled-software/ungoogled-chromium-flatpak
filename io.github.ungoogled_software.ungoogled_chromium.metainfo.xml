@@ -39,6 +39,7 @@
   </screenshots>
   <releases>
     <!-- NEW_VERSION_MARKER -->
+    <release version="126.0.6478.61-1" date="2024-06-16"/>
     <release version="125.0.6422.141-1" date="2024-06-02"/>
     <release version="125.0.6422.112-1" date="2024-05-24"/>
     <release version="125.0.6422.76-1" date="2024-05-22"/>
