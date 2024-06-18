@@ -4,7 +4,9 @@
   <id>io.github.ungoogled_software.ungoogled_chromium</id>
   <launchable type="desktop-id">io.github.ungoogled_software.ungoogled_chromium.desktop</launchable>
   <name>Ungoogled Chromium</name>
-  <developer_name>ungoogled-software</developer_name>
+  <developer id="io.github.ungoogled_software">
+    <name>Ungoogled Software</name>
+  </developer>
   <summary>Chromium without Google integration</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>BSD-3-Clause and LGPL-2.1+ and Apache-2.0 and IJG and MIT and GPL-2.0+ and ISC
