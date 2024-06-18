@@ -3,7 +3,7 @@
 <component type="desktop-application">
   <id>io.github.ungoogled_software.ungoogled_chromium</id>
   <launchable type="desktop-id">io.github.ungoogled_software.ungoogled_chromium.desktop</launchable>
-  <name>ungoogled-chromium</name>
+  <name>Ungoogled Chromium</name>
   <developer_name>ungoogled-software</developer_name>
   <summary>A lightweight approach to removing Google web service dependency</summary>
   <metadata_license>CC0-1.0</metadata_license>
