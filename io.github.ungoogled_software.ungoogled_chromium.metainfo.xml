@@ -11,15 +11,15 @@
   <url type="homepage">https://github.com/ungoogled-software/ungoogled-chromium</url>
   <description>
    <p>
-    ungoogled-chromium is Google Chromium, sans dependency on Google web services.
+    Ungoogled Chromium is Google Chromium, sans dependency on Google web services.
    </p>
    <p>
-    ungoogled-chromium retains the default Chromium experience as closely as possible.
-    Unlike other Chromium forks that have their own visions of a web browser, ungoogled-chromium
+    Ungoogled Chromium retains the default Chromium experience as closely as possible.
+    Unlike other Chromium forks that have their own visions of a web browser, Ungoogled Chromium
     is essentially a drop-in replacement for Chromium.
    </p>
    <p>
-    ungoogled-chromium features tweaks to enhance privacy, control, and transparency. However, almost
+    Ungoogled Chromium features tweaks to enhance privacy, control, and transparency. However, almost
     all of these features must be manually activated or enabled.
    </p>
   </description>
