@@ -11,18 +11,27 @@
     and OpenSSL and (MPL-1.1 or GPL-2.0 or LGPL-2.0)</project_license>
   <url type="homepage">https://github.com/ungoogled-software/ungoogled-chromium</url>
   <description>
-    <p>
-      Ungoogled Chromium is Google Chromium, sans dependency on Google web services.
-    </p>
-    <p>
-      Ungoogled Chromium retains the default Chromium experience as closely as possible.
-      Unlike other Chromium forks that have their own visions of a web browser, Ungoogled Chromium
-      is essentially a drop-in replacement for Chromium.
-    </p>
-    <p>
-      Ungoogled Chromium features tweaks to enhance privacy, control, and transparency. However,
-      almost all of these features must be manually activated or enabled.
-    </p>
+    <p>Ungoogled Chromium is Google Chromium, sans dependency on Google web services. It also
+      features some tweaks to enhance privacy, control, and transparency <em>(almost all of which
+      require manual activation or enabling)</em>.</p>
+    <p>Ungoogled Chromium retains the default Chromium experience as closely as possible. Unlike
+      other Chromium forks that have their own visions of a web browser, Ungoogled Chromium is
+      essentially a drop-in replacement for Chromium.</p>
+    <p>Without signing in to a Google Account, Chromium does pretty well in terms of security and
+      privacy. However, Chromium still has some dependency on Google web services and binaries. In
+      addition, Google designed Chromium to be easy and intuitive for users, which means they
+      compromise on transparency and control of inner operations.</p>
+    <p>Ungoogled Chromium addresses these issues in the following ways:</p>
+    <ul>
+      <li>Remove all remaining background requests to any web services while building and running
+        the browser</li>
+      <li>Remove all code specific to Google web services</li>
+      <li>Remove all uses of pre-made binaries from the source code, and replace them with
+        user-provided alternatives when possible</li>
+      <li>Disable features that inhibit control and transparency, and add or modify features that
+        promote them (these changes will almost always require manual activation or enabling)</li>
+    </ul>
+    <p>These features are implemented as configuration flags, patches, and custom scripts.</p>
   </description>
   <branding>
     <color type="primary" scheme_preference="light">#ff8f8f</color>
