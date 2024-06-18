@@ -23,6 +23,10 @@
     all of these features must be manually activated or enabled.
    </p>
   </description>
+  <branding>
+    <color type="primary" scheme_preference="light">#ff8f8f</color>
+    <color type="primary" scheme_preference="dark">#5e3838</color>
+  </branding>
   <screenshots>
     <screenshot type="default">
       <caption>About window with light mode</caption>
