@@ -13,6 +13,21 @@
   <url type="homepage">https://github.com/ungoogled-software/ungoogled-chromium</url>
   <url type="help">https://github.com/ungoogled-software/ungoogled-chromium/blob/master/SUPPORT.md</url>
   <url type="bugtracker">https://github.com/ungoogled-software/ungoogled-chromium-flatpak/issues</url>
+  <keywords>
+    <keyword>web browser</keyword>
+    <keyword>chromium</keyword>
+    <keyword>ungoogled</keyword>
+    <keyword>privacy</keyword>
+    <keyword>security</keyword>
+    <keyword>transparency</keyword>
+    <keyword>control</keyword>
+  </keywords>
+  <categories>
+    <category>Network</category>
+    <category>WebBrowser</category>
+    <category>WebDevelopment</category>
+    <category>Viewer</category>
+  </categories>
   <description>
     <p>Ungoogled Chromium is Google Chromium, sans dependency on Google web services. It also
       features some tweaks to enhance privacy, control, and transparency <em>(almost all of which
