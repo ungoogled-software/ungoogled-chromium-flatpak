@@ -1,0 +1,10 @@
+COMPANY_FULLNAME=The Chromium and Ungoogled Chromium Authors
+COMPANY_SHORTNAME=The Chromium and Ungoogled Chromium Authors
+PRODUCT_FULLNAME=Ungoogled Chromium
+PRODUCT_SHORTNAME=Ungoogled Chromium
+PRODUCT_INSTALLER_FULLNAME=Ungoogled Chromium Installer
+PRODUCT_INSTALLER_SHORTNAME=Ungoogled Chromium Installer
+COPYRIGHT=Copyright @LASTCHANGE_YEAR@ The Chromium and Ungoogled Chromium Authors. All rights reserved.
+MAC_BUNDLE_ID=io.github.ungoogled_software.ungoogled_chromium
+MAC_CREATOR_CODE=Cr24
+MAC_TEAM_ID=
