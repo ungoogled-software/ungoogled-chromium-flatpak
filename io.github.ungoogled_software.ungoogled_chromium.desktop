@@ -112,7 +112,7 @@ Terminal=false
 Icon=io.github.ungoogled_software.ungoogled_chromium
 Type=Application
 Categories=Network;WebBrowser;
-Keywords=chrome;internet;
+Keywords=chrome;internet;browser;chromium;google;ungoogled;
 MimeType=application/pdf;application/rdf+xml;application/rss+xml;application/xhtml+xml;application/xhtml_xml;application/xml;image/gif;image/jpeg;image/png;image/webp;text/html;text/xml;x-scheme-handler/http;x-scheme-handler/https;
 Actions=new-window;new-private-window;
 
