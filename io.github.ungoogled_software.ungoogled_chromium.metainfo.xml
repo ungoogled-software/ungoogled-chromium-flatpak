@@ -71,6 +71,7 @@
   </screenshots>
   <releases>
     <!-- NEW_VERSION_MARKER -->
+    <release version="133.0.6943.141-1-1" date="2025-02-27"/>
     <release version="133.0.6943.126-1-1" date="2025-02-19"/>
     <release version="133.0.6943.98-1-1" date="2025-02-13"/>
     <release version="133.0.6943.53-1-1" date="2025-02-10"/>
